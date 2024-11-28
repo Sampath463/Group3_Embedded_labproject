@@ -1,4 +1,4 @@
-# Group3_Embedded_labproject
+# Code is in the master branch
 
 Project Title: GPS-Based Direction Finder
 
